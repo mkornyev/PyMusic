@@ -1,27 +1,19 @@
 
+# PyMusic!   
 
-				########################				
-				#       PyMusic!       #
-				########################
+Welcome to PyMusic, a sheet music reader. 
 
-				   ##################
-
-				      ############
-
+## Get Started
 
 1. Open root.py in your favorite editor (like Sublime) and run (CTRL + B in Sublime). 
 	
-2. To import your own music files, add a copy of the SAME file in PNG and GIF format to the /Samples directory. This is the default file directory, but you can always enter a different one in the entry field in the program (ie. ~/Desktop/MusicFile) *dont use an extension when entering into the entry field.
+2. To import your own music files, add a copy of the SAME file in PNG and GIF format to the /Samples directory. This is the default file directory, but you can always enter a different one in the entry field in the program (ie. ~/Desktop/MusicFile) Avoid extensions when entering into the entry field. Dont forget to use a .gif! 
 
-Make sure the fileName is the same, just the file extension is different. It’s typically not enough to just change the name of the file to your desired extension, so you’d have to use an online converter PNG to GIF converter.
+3. Huge thanks to “https://www.online-convert.com” for help with conversions and trimming audio.
 
-Taking screenshots of a piece of music online will save the file as a PNG on your desktop, and then you can convert it to GIF and put it in the relevant directory.  
-
-3. Huge thanks to “https://www.online-convert.com” for help with converting and trimming audio.
-
-4. Credit for the module manager goes to Austin Chick (aschick), 15-112 TA 
+4. Credit for the module manager goes to Austin Chick (aschick) 
 
 5. This program is made purely for educational purposes. 
 
 
--Max Kornyev, Carnegie Mellon University, 15-112, May 2018. 
+## mk
